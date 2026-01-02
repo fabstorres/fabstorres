@@ -1,8 +1,8 @@
 **🎉 Happy New Year!**
 
-My most recent project, **Fabs Chat**, has moved to [fabs-chat.vercel.app](https://fabs-chat.vercel.app).  
+My most recent project, **Fabs Chat** (Multi-Modal Chatbot), has moved to [fabs-chat.vercel.app](https://fabs-chat.vercel.app).  
 The site is temporarily down during the holidays while we migrate to Vercel for hosting and infrastructure.
-
+Side note: Attatchment support is currently disabled, resumable streams is current disabled, and only Gemini models are currently open for use.
 <!--
 **fabstorres/fabstorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
