@@ -1,20 +1,14 @@
 **🎉 Happy New Year!**
 
-My most recent project, **Fabs Chat** (Multi-Modal Chatbot), has moved to  
-[fabs.chat](https://fabs.chat/).
+As of 01-08-26, my latest project, **Fabs Chat** (multi-modal chatbot/chat app), is live for beta users at [fabs.chat](https://fabs.chat/).
 
-Side note: Attachment support is currently disabled, resumable streams are
-currently disabled, and only Gemini models are currently open for use.
+Note: A recent update has temporarily affected model usage. A fix is expected and should be released later today.
 
----
+Side notes: Attachment support and resumable streams are currently disabled. These features are expected to be re-enabled by 01-16-26.
 
-**Here’s a preview:**
+Preview:
 
-<img
-  src="assets/fabs-chat-demo.png"
-  alt="Fabs Chat preview"
-  width="700"
-/>
+<img src="assets/fabs-chat-demo.png" alt="Fabs Chat preview" width="700" />
 
 <!--
 **fabstorres/fabstorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
