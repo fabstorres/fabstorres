@@ -1,10 +1,7 @@
 **🎉 Happy New Year!**
 
 My most recent project, **Fabs Chat** (Multi-Modal Chatbot), has moved to  
-[fabs-chat.vercel.app](https://fabs-chat.vercel.app).
-
-The site is temporarily down during the holidays while we migrate to Vercel for
-hosting and infrastructure.
+[fabs.chat](https://fabs.chat/).
 
 Side note: Attachment support is currently disabled, resumable streams are
 currently disabled, and only Gemini models are currently open for use.
