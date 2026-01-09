@@ -2,8 +2,6 @@
 
 As of 01-08-26, my latest project, **Fabs Chat** (multi-modal chatbot/chat app), is live for beta users at [fabs.chat](https://fabs.chat/).
 
-Note: A recent update has temporarily affected model usage. A fix is expected and should be released later today.
-
 Side notes: Attachment support and resumable streams are currently disabled. These features are expected to be re-enabled by 01-16-26.
 
 Preview:
