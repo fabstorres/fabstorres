@@ -2,7 +2,7 @@
 
 As of 01-12-26, my latest project, **Fabs Chat** (multi-modal chatbot/chat app), is live for beta users at [fabs.chat](https://fabs.chat/).
 
-Update: More model support! We now support Grok, Kimi K2, MiniMax, OpenAI models.
+Update: More model support! We now support DeepSeek, Grok, Kimi K2, MiniMax, OpenAI models.
 
 Side notes: Attachment support and resumable streams are currently disabled. These features are expected to be re-enabled by 01-16-26.
 
