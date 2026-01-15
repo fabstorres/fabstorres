@@ -2,10 +2,19 @@
 
 My latest project, **Fabs Chat** (multi-modal chatbot/chat app), is live for beta users at [fabs.chat](https://fabs.chat/).
 
-As of 01-12-26,
-Update: More model support! We now support DeepSeek, Grok, Kimi K2, MiniMax, OpenAI models.
+01-15-26 Update
+ 
+ - Sign-in has been temporarily disabled due to issues outside my control.
+ - Attachment support are also disabled for now.
+ - Guest mode is now being prioritized, planned for release on 01-18-26, and will allow limited usage of Gemini models only.
 
-Side notes: Attachment support and resumable streams are currently disabled. These features are expected to be re-enabled by 01-16-26.
+01-14-26 Update
+
+ - Attachment uploads are now supported, limited to 5MB per chat (more usage will be allowed in a future update).
+ - QOL updates: saving prompt inputs between sessions and editing messages now stores chat metadata (e.g., models, web search, reasoning, and attachments).
+
+01-12-26 Update
+ - More model support! We now support DeepSeek, Grok, Kimi K2, MiniMax, and OpenAI models.
 
 Preview:
 
