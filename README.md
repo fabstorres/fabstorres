@@ -2,7 +2,7 @@
 
 My latest project, **Fabs Chat** (multi-modal chatbot/chat app), is live for beta users at [fabs.chat](https://fabs.chat/).
 
-01-15-26 Update
+01-16-26 Update
  - Sign-in/Sign-up has been restored.
  - QOL update: Converstaion metadata is stored to save previous session's settings.
 
