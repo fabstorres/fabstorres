@@ -4,7 +4,7 @@ My latest project, **Fabs Chat** (multi-modal chatbot/chat app), is live for bet
 
 01-19-26 Update
 
- - Attachment support is now reneabled and limited to 16mb per chat.
+ - Attachment support is now re-enabled and limited to 16mb per chat.
  - Better contrast between dark mode and new fonts added to theme.
  - Reasoning support added for Kimi K2 Thinking, DeepSeek V3.2, and GPT OSS 120B.
  - Guest mode will be pushed to 01-23-26, and will be available to all users.
