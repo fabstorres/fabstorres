@@ -3,19 +3,22 @@
 My latest project, **Fabs Chat** (multi-modal chatbot/chat app), is live for beta users at [fabs.chat](https://fabs.chat/).
 
 01-19-26 Update
+
  - Attachment support is now reneabled and limited to 16mb per chat.
  - Better contrast between dark mode and new fonts added to theme.
  - Reasoning support added for Kimi K2 Thinking, DeepSeek V3.2, and GPT OSS 120B.
+ - Guest mode will be pushed to 01-23-26, and will be available to all users.
 
 01-16-26 Update
- - Sign-in/Sign-up has been restored.
+
+ - Sign-in/Sign-up has been restored for beta users.
  - QOL update: Converstaion metadata is stored to save previous session's settings.
 
 01-15-26 Update
  
  - Sign-in has been temporarily disabled due to issues outside my control.
  - Attachment support are also disabled for now.
- - Guest mode is now being prioritized, planned for release on 01-23-26, and will allow limited usage of Gemini models only.
+ - Guest mode is now being prioritized, planned for release on 01-18-26, and will allow limited usage of Gemini models only.
 
 01-14-26 Update
 
