@@ -2,6 +2,9 @@
 
 My latest project, **Fabs Chat** (multi-modal chatbot/chat app), is live for beta users at [fabs.chat](https://fabs.chat/).
 
+01-22-26 Update
+ - New rate limits per chat, now limiting the length of conversations for the upcoming guest mode.
+
 01-19-26 Update
 
  - Attachment support is now re-enabled and limited to 16mb per chat.
