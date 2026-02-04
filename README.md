@@ -4,7 +4,7 @@ My latest project, **Fabs Chat** (multi-modal chatbot/chat app), is live for bet
 
 01-24-26 Update
 
-- Guest mode and the public release of fabs.chat are coming 01-31-26.
+- Guest mode and the public release of fabs.chat are coming 02-05-26.
 - The launch will include a free tier and a Pro tier starting at $8/month.
 - A huge thank you to our beta users for their feedback, which helped improve the experience and make this project possible.
 
