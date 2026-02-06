@@ -1,6 +1,6 @@
 **🎉 Happy New Year!**
 
-My latest project, **Fabs Chat** (multi-modal chatbot/chat app), is live for all users at [fabs.chat](https://fabs.chat/). NOTE: subscriptions are coming soon.
+My latest project, **Fabs Chat** (llm chat app), is live for all users at [fabs.chat](https://fabs.chat/). NOTE: subscriptions are coming soon.
 <!--
 **fabstorres/fabstorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
