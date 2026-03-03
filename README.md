@@ -1,6 +1,10 @@
-**🎉 Happy New Year!**
+Just doing my thing at this point
 
-My latest project, **Fabs Chat** (llm chat app), is live for all users at [fabs.chat](https://fabs.chat/). NOTE: subscriptions are coming soon.
+## Current projects
+
+* My latest project, **Fabs Chat** (LLM chat app), is live at [fabs.chat](https://fabs.chat/)
+
+* New project **Fabs Code** (AI coding agent), coming soon.
 <!--
 **fabstorres/fabstorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
