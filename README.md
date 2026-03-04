@@ -4,7 +4,7 @@ Just doing my thing at this point
 
 * My latest project, **Fabs Chat** (LLM chat app), is live at [fabs.chat](https://fabs.chat/)
 
-* New project **Fabs Code** (AI coding agent), coming soon.
+* New project **Fabs Code** (AI coding agent), coming soon more info at [fabs.codes](https://fabs.codes/).
 <!--
 **fabstorres/fabstorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
