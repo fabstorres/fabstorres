@@ -1,8 +1,19 @@
-Just doing my thing at this point
+## My Websites
+
+* [fabs.chat](https://fabs.chat/) (My LLM chat app for OSS models)
+* [fabs.blog](https://fabs.blog/) (Go into depth on how I am building)
+
+## Focus of the Week
+
+* Detouring into building a simple TUI framework for [MicroCode](https://github.com/fabstorres/MicroCode) in C#.
 
 ## Current projects
 
 * My latest project, **Fabs Chat** (LLM chat app), is live at [fabs.chat](https://fabs.chat/)
+* The focus of the week [MicroCode](https://github.com/fabstorres/MicroCode)
+* Projects in rotation [Dynamail](https://github.com/fabstorres/dynamail), [MicroCode](https://github.com/fabstorres/MicroCode), [fabs.chat](https://fabs.chat/)
+
+
 
 <!--
 **fabstorres/fabstorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
