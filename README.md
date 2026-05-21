@@ -6,11 +6,12 @@
 ## Focus of the Week
 
 * Detouring into building a simple TUI framework for [MicroCode](https://github.com/fabstorres/MicroCode) in C#.
+* WIP: [fabs.tui](https://github.com/fabstorres/fabs.tui)
 
 ## Current projects
 
 * My latest project, **Fabs Chat** (LLM chat app), is live at [fabs.chat](https://fabs.chat/)
-* The focus of the week [MicroCode](https://github.com/fabstorres/MicroCode)
+* Next week's focus (05/27): [Dynamail](https://github.com/fabstorres/dynamail)
 * Projects in rotation [Dynamail](https://github.com/fabstorres/dynamail), [MicroCode](https://github.com/fabstorres/MicroCode), [fabs.chat](https://fabs.chat/)
 
 
