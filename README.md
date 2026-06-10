@@ -5,8 +5,7 @@
 
 ## Focus of the Week
 
-* Detouring into building a simple TUI framework for [MicroCode](https://github.com/fabstorres/MicroCode) in C#.
-* WIP: [fabs.tui](https://github.com/fabstorres/fabs.tui)
+# Fabs Chat v2
 
 ## Current projects
 
