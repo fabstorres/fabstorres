@@ -5,7 +5,7 @@
 
 ## Focus of the Week
 
-# Fabs Chat v2
+* Fabs Chat v2
 
 ## Current projects
 
